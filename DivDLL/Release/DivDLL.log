@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  DivDLL.cpp
+c:\users\asus\desktop\calculator\divdll\divdll.cpp(8): warning C4273: 'div': inconsistent dll linkage
+  c:\users\asus\desktop\calculator\divdll\divdll.h(7): note: see previous definition of 'div'
+  dllmain.cpp
+     Creating library C:\Users\ASUS\Desktop\Calculator\Release\DivDLL.lib and object C:\Users\ASUS\Desktop\Calculator\Release\DivDLL.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DivDLL.vcxproj -> C:\Users\ASUS\Desktop\Calculator\Release\DivDLL.dll

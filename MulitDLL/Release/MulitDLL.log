@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MulitDLL.cpp
+c:\users\asus\desktop\calculator\mulitdll\mulitdll.cpp(8): warning C4273: 'mulit': inconsistent dll linkage
+  c:\users\asus\desktop\calculator\mulitdll\mulitdll.h(7): note: see previous definition of 'mulit'
+     Creating library C:\Users\ASUS\Desktop\Calculator\Release\MulitDLL.lib and object C:\Users\ASUS\Desktop\Calculator\Release\MulitDLL.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MulitDLL.vcxproj -> C:\Users\ASUS\Desktop\Calculator\Release\MulitDLL.dll

@@ -1,0 +1,5 @@
+LIBRARY "MulitDLL"
+
+EXPORTS
+
+mulit @ 1

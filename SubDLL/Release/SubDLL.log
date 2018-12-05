@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SubDLL.cpp
+c:\users\asus\desktop\calculator\subdll\subdll.cpp(8): warning C4273: 'sub': inconsistent dll linkage
+  c:\users\asus\desktop\calculator\subdll\subdll.h(6): note: see previous definition of 'sub'
+     Creating library C:\Users\ASUS\Desktop\Calculator\Release\SubDLL.lib and object C:\Users\ASUS\Desktop\Calculator\Release\SubDLL.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SubDLL.vcxproj -> C:\Users\ASUS\Desktop\Calculator\Release\SubDLL.dll

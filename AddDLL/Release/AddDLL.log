@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AddDLL.cpp
+  dllmain.cpp
+     Creating library C:\Users\ASUS\Desktop\Calculator\Release\AddDLL.lib and object C:\Users\ASUS\Desktop\Calculator\Release\AddDLL.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AddDLL.vcxproj -> C:\Users\ASUS\Desktop\Calculator\Release\AddDLL.dll

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AddDLL.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\ASUS\Desktop\Calculator\Debug\AddDLL.lib and object C:\Users\ASUS\Desktop\Calculator\Debug\AddDLL.exp
+  AddDLL.vcxproj -> C:\Users\ASUS\Desktop\Calculator\Debug\AddDLL.dll

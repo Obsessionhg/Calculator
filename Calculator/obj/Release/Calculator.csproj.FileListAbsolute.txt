@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.exe
